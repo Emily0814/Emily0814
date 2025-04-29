@@ -8,9 +8,9 @@
 
 <h2 align="center">🔥 What are my strengths?</h2>
 
-- **Quick to adapt**  
-  I won't claim to be the best from the start, but I'm confident in my ability to adapt quickly.  
-  No one starts out perfect, but I make sure to grow fast.
+- <p>Quick to adapt</p>
+  <div align="center">I won't claim to be the best from the start, but I'm confident in my ability to adapt quickly.</div>
+  <div align="center">No one starts out perfect, but I make sure to grow fast.</div>
 
 - **Strong communication & teamwork**  
   I'm great at working with others — I value empathy, respect, and clear communication.  
@@ -20,7 +20,7 @@
   I enjoy learning new things and taking on challenges.  
   I'm always ready to grow, especially in a team environment.
 
----
+<hr>
 
 <h2 align="center">🛠 Tech Stack</h2>
 <p align="center">Techs that I've used at least once</p>
@@ -48,8 +48,7 @@
 
 </div>
 
-
----
+<hr>
 
 <h2 align="center">💡 I can live up to your expectations</h2>
 
@@ -58,7 +57,7 @@ Well — **that's me!** 👏 I have all of those qualities, and I'm eager to pro
 
 If your team is looking for someone with drive, a positive attitude, and a willingness to learn — look no further!
 
----
+<hr>
 
 <h2 align="center">✨ To everyone reading thisa</h2>
 
@@ -67,7 +66,7 @@ And if I do land a job, I’ll be sure to post updates on my [Velog](https://vel
 
 To recruiters or hiring teams: please feel free to reach out!
 
----
+<hr>
 
 <h2 align="center">📩 Contact</h2>
 
