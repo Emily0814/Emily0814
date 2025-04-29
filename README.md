@@ -4,6 +4,8 @@
 <div align="center">But I won't give up. I'm committed to growing and finding the right opportunity.</div>
 <div align="center">I want to work. I *need* to work. Please give me a chance! 🙏</div>
 
+<hr>
+
 <h2 align="center">🔥 What are my strengths?</h2>
 
 - **Quick to adapt**  
