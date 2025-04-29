@@ -12,7 +12,7 @@
   <div align="center">I won't claim to be the best from the start, but I'm confident in my ability to adapt quickly.</div>
   <div align="center">No one starts out perfect, but I make sure to grow fast.</div>
 
-<p align="center"><b>Strong communication & teamwork</b></p>
+<h4 align="center"><b>Strong communication & teamwork</b></h4>
   <div align="center">I'm great at working with others — I value empathy, respect, and clear communication.</div>
   <div align="center">I believe collaboration is key in any workplace.</div>
 
