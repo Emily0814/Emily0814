@@ -48,7 +48,7 @@
 
 <h2 align="center">💡 I can live up to your expectations</h2>
 
-<div align="center">Many job postings ask for *"someone passionate, eager to grow, and a great team player."*</div>
+<div align="center">Many job postings ask for "someone passionate, eager to grow, and a great team player."</div>
 <div align="center">Well — <b>that's me!👏</b></div>
 <div align="center">I have all of those qualities, and I'm eager to prove it.</div>
 <br>
