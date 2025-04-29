@@ -72,6 +72,6 @@
 
 <div align="center"><b>Email:</b><a href="mailto:ajaajashwaiting@gmail.com">ajaajashwaiting@gmail.com</a></div>
 <div align="center"><b>Velog:</b><a href="https://velog.io/@ajaajas/about">Visit here</a></div>
-
+<br>
 <div align="center">I'm always ready to learn, grow, and contribute.</div>
 <div align="center">Looking forward to building something amazing together. 💪</div>
