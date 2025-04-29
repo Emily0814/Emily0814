@@ -8,13 +8,13 @@
 
 <h2 align="center">🔥 What are my strengths?</h2>
 
-- <p align="center"><b>Quick to adapt</b></p>
+<p align="center"><b>Quick to adapt</b></p>
   <div align="center">I won't claim to be the best from the start, but I'm confident in my ability to adapt quickly.</div>
   <div align="center">No one starts out perfect, but I make sure to grow fast.</div>
 
-- **Strong communication & teamwork**  
-  I'm great at working with others — I value empathy, respect, and clear communication.  
-  I believe collaboration is key in any workplace.
+<p align="center"><b>Strong communication & teamwork</b></p>
+  <div align="center">I'm great at working with others — I value empathy, respect, and clear communication.</div>
+  <div align="center">I believe collaboration is key in any workplace.</div>
 
 - **Open-minded and growth-oriented**  
   I enjoy learning new things and taking on challenges.  
