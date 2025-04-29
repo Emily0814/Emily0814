@@ -8,7 +8,7 @@
 
 <h2 align="center">🔥 What are my strengths?</h2>
 
-<p align="center"><b>Quick to adapt</b></p>
+<h3 align="center"><b>Quick to adapt</b></h3>
   <div align="center">I won't claim to be the best from the start, but I'm confident in my ability to adapt quickly.</div>
   <div align="center">No one starts out perfect, but I make sure to grow fast.</div>
 
