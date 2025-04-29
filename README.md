@@ -1,4 +1,4 @@
-# 🚀 Aspiring Full-Stack Developer — ajaajas
+<h2 align="center">🚀 Aspiring Full-Stack Developer — ajaajas</h2>
 
 Hi! I'm ajaajas, a passionate aspiring full-stack developer.  
 The job market is tough these days, and I'm definitely feeling the pressure... 😥  
@@ -7,7 +7,7 @@ I want to work. I *need* to work. Please give me a chance! 🙏
 
 ---
 
-## 🔥 What are my strengths?
+<h2 align="center">🔥 What are my strengths?</h2>
 
 - **Quick to adapt**  
   I won't claim to be the best from the start, but I'm confident in my ability to adapt quickly.  
@@ -52,7 +52,7 @@ I want to work. I *need* to work. Please give me a chance! 🙏
 
 ---
 
-## 💡 I can live up to your expectations
+<h2 align="center">💡 I can live up to your expectations</h2>
 
 Many job postings ask for *"someone passionate, eager to grow, and a great team player."*  
 Well — **that's me!** 👏 I have all of those qualities, and I'm eager to prove it.  
@@ -61,7 +61,7 @@ If your team is looking for someone with drive, a positive attitude, and a willi
 
 ---
 
-## ✨ To everyone reading thisa
+<h2 align="center">✨ To everyone reading thisa</h2>
 
 If you've come across this profile — I hope you have a great day! 😄  
 And if I do land a job, I’ll be sure to post updates on my [Velog](https://velog.io/@ajaajas) too.
@@ -70,7 +70,7 @@ To recruiters or hiring teams: please feel free to reach out!
 
 ---
 
-## 📩 Contact
+<h2 align="center">📩 Contact</h2>
 
 - **Email:** [ajaajashwaiting@gmail.com](mailto:ajaajashwaiting@gmail.com)  
 - **Velog:** [Visit here](https://velog.io/@ajaajas/about)
