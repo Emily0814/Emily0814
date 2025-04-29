@@ -23,8 +23,8 @@ I want to work. I *need* to work. Please give me a chance! 🙏
 
 ---
 
-## 🛠 Tech Stack  
-Techs that I've used at least once
+<h3 align="center"># 🛠 Tech Stack</h3>
+<p align="center">Techs that I've used at least once</p>
 
 <div align="center">
   
