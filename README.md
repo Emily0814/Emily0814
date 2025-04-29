@@ -52,26 +52,26 @@
 
 <h2 align="center">💡 I can live up to your expectations</h2>
 
-Many job postings ask for *"someone passionate, eager to grow, and a great team player."*  
-Well — **that's me!** 👏 I have all of those qualities, and I'm eager to prove it.  
-
-If your team is looking for someone with drive, a positive attitude, and a willingness to learn — look no further!
+<div align="center">Many job postings ask for *"someone passionate, eager to grow, and a great team player."*</div>
+<div align="center">Well — <b>that's me!</b> 👏 I have all of those qualities, and I'm eager to prove it.</div>
+<br>
+<div align="center">If your team is looking for someone with drive, a positive attitude, and a willingness to learn — look no further!</div>
 
 <hr>
 
 <h2 align="center">✨ To everyone reading thisa</h2>
 
-If you've come across this profile — I hope you have a great day! 😄  
-And if I do land a job, I’ll be sure to post updates on my [Velog](https://velog.io/@ajaajas) too.
-
-To recruiters or hiring teams: please feel free to reach out!
+<div align="center">If you've come across this profile — I hope you have a great day! 😄</div>
+<div align="center">And if I do land a job, I’ll be sure to post updates on my [Velog](https://velog.io/@ajaajas) too.</div>
+<br>
+<div align="center">To recruiters or hiring teams: please feel free to reach out!</div>
 
 <hr>
 
 <h2 align="center">📩 Contact</h2>
 
-- **Email:** [ajaajashwaiting@gmail.com](mailto:ajaajashwaiting@gmail.com)  
-- **Velog:** [Visit here](https://velog.io/@ajaajas/about)
+<div align="center"><b>Email:</b></div>[ajaajashwaiting@gmail.com](mailto:ajaajashwaiting@gmail.com)
+<div align="center"><b>Velog:</b></div>[Visit here](https://velog.io/@ajaajas/about)
 
-I'm always ready to learn, grow, and contribute.  
-Looking forward to building something amazing together. 💪
+<div align="center">I'm always ready to learn, grow, and contribute.</div>
+<div align="center">Looking forward to building something amazing together. 💪</div>
