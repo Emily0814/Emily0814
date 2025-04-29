@@ -23,7 +23,7 @@ I want to work. I *need* to work. Please give me a chance! 🙏
 
 ---
 
-<h3 align="center"># 🛠 Tech Stack</h3>
+<h2 align="center">🛠 Tech Stack</h2>
 <p align="center">Techs that I've used at least once</p>
 
 <div align="center">
