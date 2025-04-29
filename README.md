@@ -40,7 +40,7 @@
 
   <!-- 데이터베이스 -->
   <h4>🗄️ Database</h4>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
 
   <!-- 도구 -->
   <h4>🛠️ Tools</h4>
