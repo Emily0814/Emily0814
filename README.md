@@ -59,7 +59,7 @@
 <h2 align="center">✨ To everyone reading thisa</h2>
 
 <div align="center">If you've come across this profile — I hope you have a great day! 😄</div>
-<div align="center">And if I do land a job, I’ll be sure to post updates on my [Velog](https://velog.io/@ajaajas) too.</div>
+<div align="center">And if I do land a job, I’ll be sure to post updates on my <a href="https://velog.io/@ajaajas">Velog</a> too.</div>
 <br>
 <div align="center">To recruiters or hiring teams: please feel free to reach out!</div>
 
