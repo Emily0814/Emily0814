@@ -56,7 +56,7 @@
 
 <hr>
 
-<h2 align="center">✨ To everyone reading thisa</h2>
+<h2 align="center">✨ To everyone reading this</h2>
 
 <div align="center">If you've come across this profile — I hope you have a great day! 😄</div>
 <div align="center">And if I do land a job, I’ll be sure to post updates on my <a href="https://velog.io/@ajaajas">Velog</a> too.</div>
