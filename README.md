@@ -1,10 +1,8 @@
 <h2 align="center">🚀 Aspiring Full-Stack Developer — ajaajas</h2>
-
-Hi! I'm ajaajas, a passionate aspiring full-stack developer.  
-The job market is tough these days, and I'm definitely feeling the pressure... 😥  
-But I won't give up. I'm committed to growing and finding the right opportunity.  
-I want to work. I *need* to work. Please give me a chance! 🙏
-
+<div align="center">Hi! I'm ajaajas, a passionate aspiring full-stack developer.</div>
+<div align="center">The job market is tough these days, and I'm definitely feeling the pressure... 😥</div>
+<div align="center">But I won't give up. I'm committed to growing and finding the right opportunity.</div>
+<div align="center">I want to work. I *need* to work. Please give me a chance! 🙏</div>
 ---
 
 <h2 align="center">🔥 What are my strengths?</h2>
